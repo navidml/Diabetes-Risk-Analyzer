@@ -31,6 +31,8 @@ This project develops a complete **Machine Learning Pipeline** for diabetes risk
 -  Model serialization for deployment
 
 ---
+**Web Application:**  
+https://ml-diabetes-risk-analyzer.streamlit.app/
 
 ##  Objectives
 
